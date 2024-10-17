@@ -72,9 +72,6 @@ print(f"Mean Squared Error (MSE): {mse}")
 
 ## Output:
 
-
-![image](https://github.com/user-attachments/assets/2db780f2-be8e-4e66-bb69-5263a3599282)
-
 ![image](https://github.com/user-attachments/assets/e316116d-3567-4a4b-aea0-aa894a11a2bc)
 
 ![image](https://github.com/user-attachments/assets/b4db8c09-575c-490b-a220-92128573b0b5)
